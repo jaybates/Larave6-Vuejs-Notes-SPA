@@ -1,0 +1,9 @@
+{
+    "__created_at": 1568163483,
+    "__updated_at": 1568328525,
+    "data": {
+        "id": "5d78469bb3660",
+        "title": "How does the api work",
+        "note": "Laravel is the back end for this api, which uses a flat file db called filebase"
+    }
+}

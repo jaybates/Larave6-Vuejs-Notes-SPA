@@ -5,3 +5,4 @@ Simple Single Page Application using Vue.js for the fronend and Laravel 6 for th
 - Run composer install.
 - Run npm install.
 - Run php artisan serve
+- Run npm run watch
